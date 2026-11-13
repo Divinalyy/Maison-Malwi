@@ -1,0 +1,6 @@
+{
+  "name": "SOLÉA — Luxury Single-Donor Hair Extensions",
+  "description": "Cuticle-aligned single-donor Remy human hair extensions, genius wefts, seamless clip-ins, and custom dimensional shades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
